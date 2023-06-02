@@ -1,0 +1,11 @@
+.listas {
+    display: flex; /* Espacio para desplegar el contenido */
+    align-items: center;
+    justify-content: center;
+  }
+  .orden {
+    align-self: center; /* Alinear los elementos flexibles dentro del elemento actual*/
+    margin: 50px;
+    justify-self: center; /* Centra las dos cajas*/
+  }
+  
